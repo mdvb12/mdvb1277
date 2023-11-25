@@ -1,0 +1,26 @@
+{
+  "name": "Iva Lynch",
+  "age": 50,
+  "address": {
+    "street": "Cosfi Loop",
+    "city": "Guimge",
+    "state": "LA",
+    "zip": "49724"
+  },
+  "contact": {
+    "phone": "(688) 630-9893",
+    "servicePhone": "800138934"
+  },
+  "birthday": "1974-10-02T11:18:43.326Z",
+  "ip": "153.209.90.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Peb nalik navo vubilwe onguf nemcavud mapviita gih wa abzohpek ebgukcef rovud mawez ze ganob. Naluho bufjo deheogu obu ogja lufohba numezed jejob panhul fika ziasopa demri keso. Upapapjev legip vim tewbab sab fopefojic sat mavsu rafle pom eju pisowoku nomov ovzo lotaawe cehdarug suw mitle.",
+    "bio": "Seras ece kibin gawduzeh kewi uki za adajovil vewet ceer inbugkik peejjef row okizazuco co. Pezmok vuhir ogiluoza han hefsebdip avbezu bewzaf geb cob calebatiw azaalifal gowpevwi laowdu tejvetu dem kah laoku suemasu. Ivus po dozmawni izi ho lumozipe fubri hosunod pu hurego rubiiha nisizub ne ujematule."
+  },
+  "apiKey": "c2e0686742cf7b9475d51ca4f0c4903902a6c7dd85c83bb05d694c55037268a2",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
