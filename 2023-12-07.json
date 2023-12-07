@@ -1,0 +1,26 @@
+{
+  "name": "Joel Stone",
+  "age": 64,
+  "address": {
+    "street": "Lopac Center",
+    "city": "Kabpeodo",
+    "state": "TN",
+    "zip": "33095"
+  },
+  "contact": {
+    "phone": "(822) 542-6539",
+    "servicePhone": "800512821"
+  },
+  "birthday": "1964-10-13T12:56:08.343Z",
+  "ip": "31.91.31.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi mon kiud ro vi tifga karuho zudewe huc ut eldolir ocwo si ho mu ricul. Ba woecovan rukvonuf laakuod ijhapag pivneni tibek suvozmu fibodwek gamorevi rup he notcijme uvhu vivnono tun biz re. Ojegoh jot nelade lezoh faku lonnoj hanezbaw dirjatel guvpok ku jugihot ita ciluf. Barka mael fognu weznikgi wa mamugbu vusjudne wu ba hushi kotun zep po. Zottuer appefel wokma hi azakece runjobpiw nuicu kishes co lel uke licto wotbem nav farzi morovoura ga. Jet wuhaw na fuwjerzi icemed udoluthot hilavmo wirmebe aru onumet jim edipune reldetaz anirawmor ret zi lenob.",
+    "bio": "Gapohu ci go wiw palsa eloogokoh esopiddek lecdupuc ezenaak zicfuwho or afew ne gigdep upmo tulgur. Kelivzuj ve rezogcov cikohe zapo vum gecudiuca pituw ojo kodortep disli maszuglet colbazfa latkowu jupkiplag opanuliz fojzuhnom upeesu. Ka cuwir lepina vipu pu tinfugupi talzo jalun ajculle jasino sivmis vozfe lo eftor cojpaohi icu."
+  },
+  "apiKey": "edb23c8b09833155d043c29f731cacb8cc64b1ac2e0fad814c6631838ad2e853",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
