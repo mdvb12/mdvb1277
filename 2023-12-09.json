@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Ryan",
+  "age": 46,
+  "address": {
+    "street": "Terzu Circle",
+    "city": "Ajoiguot",
+    "state": "WA",
+    "zip": "56197"
+  },
+  "contact": {
+    "phone": "(355) 917-2465",
+    "servicePhone": "800745789"
+  },
+  "birthday": "1976-10-03T12:02:33.834Z",
+  "ip": "16.181.11.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Kera ruzva lazozfe zozzew ik wog haprahe guf laonete weova hikpib ijrazuj jecil vul visuwizur pabmohot ahime caweja. Tajlisov lefsijad iwtir fikrelap kawuna nuha nobhu sowcim carajle efe vebi ka nuruz ce jozwo hafab nutepaja olaafi. Zelosesa rauw surned meder piftuzzub li huwen feshupka mu olu kahlipuv za utehed mirozuge ruwatwav ukeagedo.",
+    "bio": "Caj sezga ufbele palbe hushu puj abtizdod fozza jog afu afde ze geguhu fo eduuh. Olevo gimtusren lolhamek zilit pizej itoeh uguikfe rila gawu jovecit tukdab noil zi hekrogzo pufakdam. Meca lugigzo nukca kifosa behpejew nujfaccuk hifapso ewivo hevi wuhdooce zaggovkez ol nirikaw nu mi osafu ja oggic. Lekgu zu ak difforej kiltu mupamu vefipfe owu ibozu neif cubo cuji agetahpim mu vo ga voasuwa peh. Balwusof niwsedzel cemok sukzizjeg idware webren vebo fituic nozehe ovlufa lu wangulek."
+  },
+  "apiKey": "81b7de011aaf4b6ef588acb65b046089a7260c1ccc41ceba3bde30d9067d12d6",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
