@@ -1,0 +1,26 @@
+{
+  "name": "John Fleming",
+  "age": 64,
+  "address": {
+    "street": "Gopnis Manor",
+    "city": "Hibjibpa",
+    "state": "DE",
+    "zip": "51865"
+  },
+  "contact": {
+    "phone": "(517) 243-4856",
+    "servicePhone": "800289757"
+  },
+  "birthday": "1977-12-16T18:29:06.606Z",
+  "ip": "47.109.176.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu zenif zedemo ko gabar riwcobac cipowug cunu totidif ri zuvbehgi ow feculi. Zed aje epuzi im uvfurub tebzodji beokvim ifteti egcev isu sujnioda cas galgiduw pavacdeh ne ka wefocim hohbed. Mewke top hera jarubhif lim zeberi kek ajfi jabufji nupgu vic gisivje owijelufa comdak cale. Ipcaeho muajtu matimkih guiveege ti juh ko upupan rijemuf lehde hipescov ogidifgeb jucju pa.",
+    "bio": "Wumaba bic johen timheibi icabwud sinavig feokru disce ja fepap ol paserbo rocogiko. Wic izekozo opigim elopup idifitur vilmop gokus no rilah jubogpe geanu heuf poda donke bodofu do avup. Sobwipwic me kebjulew timvuok azacode gagget arzow fiwupal eririj kauvu zasneg cegaz kok kuizi."
+  },
+  "apiKey": "cc7fd695246c3f41d06adc7db30bdd287d84e8d31d08c0dcf51ed8f4138345ee",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
