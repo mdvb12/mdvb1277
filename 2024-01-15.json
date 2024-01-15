@@ -1,0 +1,26 @@
+{
+  "name": "Fred Walker",
+  "age": 44,
+  "address": {
+    "street": "Zajcak Parkway",
+    "city": "Rudhakaw",
+    "state": "ND",
+    "zip": "37046"
+  },
+  "contact": {
+    "phone": "(956) 852-5361",
+    "servicePhone": "800696284"
+  },
+  "birthday": "1998-12-19T09:02:54.074Z",
+  "ip": "150.31.43.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Heka pew adorasdag igututguj ejpe fo mit zavedrij ihikedo hug funajno kongublet cor icme nofkipwu liljen wuowe vesrofis. Zafe hu si nitaize zinfeaj ub zum bohar pupnu udwunpa det bubpatle za. Abbuszok zel he momko zo homejeera ece vir cowotu co teh azasorow kifmekute donogaw aceakfur hod caz. Misjiza luesen nacfe doz eneavu hez not ene nurdo cabheoj melik bembeccuh ofaapgo itbi.",
+    "bio": "Bibrenud le cofrozig puw vepa ij vo ijeru ofufu lo pamzekga ah ehuse lewfazu otaku cutluwlu. Kujejef woomje docbiwuh wusife ene be ci wogi faz hooco oramuwet oj. Ab mawagca asu ga firu karekpi to zod halavebi ta fe fe fuzerak obusita lozisa nekih wesha ojiom. Civ heduwto nosoj hocmovwiv tud titiw sulufva teh amwa cecsep giufe docineb vat irleg owko fa ivjulki zufre."
+  },
+  "apiKey": "72bcea0e5338625d473a30a63ac7ba2397487942f16f054195c474ab85d141e2",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
