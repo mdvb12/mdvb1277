@@ -1,0 +1,26 @@
+{
+  "name": "Justin Richards",
+  "age": 64,
+  "address": {
+    "street": "Hedu Way",
+    "city": "Naivune",
+    "state": "MI",
+    "zip": "86020"
+  },
+  "contact": {
+    "phone": "(619) 504-2385",
+    "servicePhone": "800223638"
+  },
+  "birthday": "1995-05-29T18:31:06.504Z",
+  "ip": "151.205.178.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu nocidu nos bul at welop izi ag ruonher atafalaf pubipaube nunzopsen za. He def mij cevnohli enuat cuvsomeg ahroraci za offej sarujo wofap ru tuega ice silpek to mufefo. Gaslumced oh sit fesve fije ponacuok hu zowvew du bukikci ajomeco ze kaaha. Sarse gamdiffot te widzib dilhe ekufov waril wepjud gazpal ewu ehuwawefi owipe wakas molob atli togo vad. Pegace jitisdod pignite kouro feh nopgebec cag ilodujej es azono jepwapod suuf. Ocbev duuj na lorguhub cirios cocirus idisawas erki gemnikloh li pir nak sonipa. Bac abome fu hevzedo faw ade musadnap kihficim iwuijgu mevi daj tain nonip cuecpu.",
+    "bio": "Iku mida tezivo en id dovak cobkaflab zoj alewum ju bit zo go atvoasi. Vuworevoz vej zejivule baham muz lep aganahe of sopuwe lofa wuz alliv rokugmo jo. Nir miva pifmuw pekecok in pudul biofesup kawpuec za enorib hu efa tilgikoku robpe ichu okhit."
+  },
+  "apiKey": "8c00da6b90116a5c41efc251a140a455e51c9e66a2f4e899f9f9753d38dff63f",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
