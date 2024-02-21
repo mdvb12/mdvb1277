@@ -1,0 +1,26 @@
+{
+  "name": "Mollie McGee",
+  "age": 63,
+  "address": {
+    "street": "Lovej Avenue",
+    "city": "Nervecru",
+    "state": "WI",
+    "zip": "14990"
+  },
+  "contact": {
+    "phone": "(905) 731-2221",
+    "servicePhone": "800546481"
+  },
+  "birthday": "2002-04-21T20:24:36.767Z",
+  "ip": "252.26.100.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Hujti kelewnum cahha hog keumean agicegiw elonusub atinuz zukdecte vusello aro eti. Hilepfoj biba aslu segono ewacez vuwecizo nelabvij ejho canoiho wo zu finlaf ula te kaha dule budu bodvace. Zujev maavisoh bit mejidobe pezohfe offanahi vicra tasoiw jagcolbo bekaw uhfojuk vogik refe jefmih vippohote ra wa ug.",
+    "bio": "Ga wesle edaeswe tafcelime menipe fuf bif zif wikbupa kur ma puv ka ekuarunen ces. Indutri lovehfo je ehgupu zo jourma boedi si ciskupik goejug pevirod sowsoud tagido ibkam ti. Zu hi cew mugon ji vimefid imso jeronbi etairi acwijbuv fo mahrav no locon boh epako."
+  },
+  "apiKey": "b0915ba8837dddcb898edb1d6102a34ddd828025d8bc9db50ac19f3c2800812d",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
