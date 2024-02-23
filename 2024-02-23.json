@@ -1,0 +1,26 @@
+{
+  "name": "Helen Keller",
+  "age": 50,
+  "address": {
+    "street": "Mipka Point",
+    "city": "Celogaf",
+    "state": "CO",
+    "zip": "70368"
+  },
+  "contact": {
+    "phone": "(645) 503-8471",
+    "servicePhone": "800968613"
+  },
+  "birthday": "1986-03-17T11:40:46.208Z",
+  "ip": "191.69.59.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi osruop biszo mobnajju kucwob bigbewow jow mu kutmoiz na ifpehle nibub moj cap fevcurej nicog bo pijiso. Bage homgu ajimnuc agsav ho havuoj gitod kefettu hu uhifed hakpo tavah hit. Jirehi taez igwih buwaflod zaiku wair razhig worsis juhehdoj ma munofrem geker.",
+    "bio": "Uhu jen poibi gu doutesu idcot cirtizav fursi sunauw muwistoz lozep vugonweb. Pafweg okherve senno bodozac higtup um mozawip lahiku meszub dop hon kuhba. Ju nadumlub izosiki kuztahhe it size avvaive jaj gu eka zanuw fu ewidu ujgobal licdaogo poslufbo bap."
+  },
+  "apiKey": "37636606bf2dac3d5ef27cf7662cb76c51fb47fb1bbb27fd8220585b8978815e",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
