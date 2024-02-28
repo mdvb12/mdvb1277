@@ -1,0 +1,26 @@
+{
+  "name": "Carl Wilkerson",
+  "age": 47,
+  "address": {
+    "street": "Judi Drive",
+    "city": "Konoma",
+    "state": "IA",
+    "zip": "80501"
+  },
+  "contact": {
+    "phone": "(423) 870-6392",
+    "servicePhone": "800849438"
+  },
+  "birthday": "1962-03-25T22:33:10.854Z",
+  "ip": "19.95.81.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti fi eziofi vajwem rabahuof kuttiwop icapi kuvo cot kezen meut nujaf fadgeoda kagu. Tabzeceb az nuh sab bewdelde vasomje ivocem abewekof le tafpe ven ijmaddi bugvo dozatruh nas ci ujko. Zokuv vuvez ilsa bi gur kac iwaif ul ed feizta ci titu pibov vad testecu.",
+    "bio": "Mejo he sut zoukzu zi jehsin mamjijo jottos fiov vir koj as. Jir cuz ifko cas sus ote sawcida of moeku votes li vauw otioceta ov witku kabiju somiv. Ku rejtat mipas so wiruz na ehvob lor luhsi okezedko tet levmo afanop sus tozecaju ibo eloni. Cigibut uke woapi cepel genugefo va safgeba ru dop eboaruv om takes ni fumemes bitvog ozufih. Gudilo olabehi awu epinogog sakfolrub sugim la vambagja mahed nipok ov edi iwi lak se. Womuh li rihecok baf kiirnew poj welvog ketmezaz vacuka huwvitiv eru we puj pimot wian odeba piwnefi. Wavuute ru vu kip ki ofunfug ec ofebo tir cek zewvuulu fiohafif."
+  },
+  "apiKey": "3f92c50a1ddd0bebed634cf90a1d03f7ac7862fdb311f0b5d20894ed1aab5130",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
