@@ -1,0 +1,26 @@
+{
+  "name": "Janie Klein",
+  "age": 34,
+  "address": {
+    "street": "Lizik Place",
+    "city": "Tatuhah",
+    "state": "TN",
+    "zip": "93272"
+  },
+  "contact": {
+    "phone": "(648) 735-8525",
+    "servicePhone": "800818659"
+  },
+  "birthday": "1976-12-09T01:47:03.113Z",
+  "ip": "200.172.205.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Zob sococu penveube vogwopja giwutoho labo zi katato re amfud jut sod jefcep zobewzo nig ivdivadi epimowtiz. Fuw tijdelci ut kanfunma dow rinav uj vawaskor winweftev cocod ri wag impir. Hi amoat god uvih jiralunu noztiil jugvo fo dovot enaajevu nozcekeh seetisec hursor elo lat hahweznul ej giput.",
+    "bio": "Zeiz tevob bahhu to eha moh zujib miffi rutilo epluzib guzbo zofi ubuobe su. Hi udcaj ip wumuj vomvooni keg berfedfaz fuw wez ipfa fig ij kuepodi igapufut fiv nugvi. Rin mo utnevmij barmekob tuerac puz bo pe rilugpe odhuf ton sanbane. Zevete ojopap van sogpu ce wa fiewcev go ezgiko reshabpiv no ze. Duz daevra pukronu vegebgat jagja juh zuljimzo kep bi zevvet ajofuwud ce canur."
+  },
+  "apiKey": "5c149cd301c5e6490f60b1a514cac0588666e355fce849b5644754d3a79e3957",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
