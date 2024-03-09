@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Schmidt",
+  "age": 34,
+  "address": {
+    "street": "Zuobu View",
+    "city": "Resezvu",
+    "state": "SC",
+    "zip": "48284"
+  },
+  "contact": {
+    "phone": "(404) 546-6417",
+    "servicePhone": "800265852"
+  },
+  "birthday": "2004-06-21T15:20:37.725Z",
+  "ip": "66.70.84.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi beh iwaha gu sew rit luwoce ni sade zufrukgoc fa anidauha jomdak ce refijo. Le vevi lafpa ropit adjefa zo pawina tuhiven ombekowo kastipef fag pot ni. Hida nownek li darga vufi hi wohfo patje jela vuje javudgeg taroj anarova iru ce pi pegesu.",
+    "bio": "Uj nu su gabaz jih zujub veh la wezuhse ejupa pi adupiulu. Wed la jarbepfuj ekpokiwi hullarnu zajbig zabviji gut wuzagemom bevale sarufbil ufowezu sifceni wosohunef ovlar. Ko daz lif sadukvag pi tab pi inilatabi gibterfa weguj tiofone hupcubac kikpezed ajuzo. Sos bi ezriuv ohaafloj feucuer ipuostij sosifza vav zopsunido weluzovuc befate gurecozi pikse tarcuhje."
+  },
+  "apiKey": "265d01df3452ce00e8e59ea40d0a70792ba7afaed81c8ca0aa5898947e4c3805",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
