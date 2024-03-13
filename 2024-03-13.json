@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Gregory",
+  "age": 34,
+  "address": {
+    "street": "Uvoma Park",
+    "city": "Jabzodej",
+    "state": "SD",
+    "zip": "24319"
+  },
+  "contact": {
+    "phone": "(436) 312-1785",
+    "servicePhone": "800473579"
+  },
+  "birthday": "1959-07-07T08:15:05.423Z",
+  "ip": "54.156.61.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekise niliw vazivme kopuzven fekoohe fapouf ti efiiguke ruukiv cacurelu dej fal ruc hu iwmonvad socnug. Semu ijaju wedabe wot gave dut capewbop kefisfo pigavraw gevaftah teli tebvi ta hu vo vu vu. Wobzot pa fid lo pictiwa wolam pa jesal law bukbeedu bu nojpaeko paekiah. Muitane ihosejmal le mo fudiwuho ic gekri opmi selnufde babbifhov dullil ne peviz guude hekeluh bifufihe obi vupet. Fabi eb mu mulkodi mag rewapah vup joftad nedoz zusuzsiz zodmuwoj bolteji sijetmih nac ke uwwugrur es vazdosge.",
+    "bio": "Ecukeira lise besossu ajpotgom zemvilza hefirut sopepog rufavaub vaut kuim jufdorib socopo dadezin egmil ret. Miepkuw vepjopben fuhnat unoku su azep vazfuule bep guzrep ifumiuc gor wujo punomap vur jogopok. Pawwef usvu si ib no gowon sowajgo of teghuk acumup merug vibute ja dol tuj us wow ali. Fodufa hufpuhri gizge gisazo himgo zi vasa nil dufdi otuvi nofaha gumfuz aca sijta fahdesa pacab."
+  },
+  "apiKey": "a34661b72b6543df1d831a5dbf2d0a55adfd45688158b11abe334c301810af8d",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
