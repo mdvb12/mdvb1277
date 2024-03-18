@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Ortega",
+  "age": 21,
+  "address": {
+    "street": "Okgo Heights",
+    "city": "Vevured",
+    "state": "CA",
+    "zip": "73044"
+  },
+  "contact": {
+    "phone": "(331) 594-6282",
+    "servicePhone": "800161272"
+  },
+  "birthday": "1969-12-19T21:17:55.999Z",
+  "ip": "219.134.155.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Lazime moc fejfitezi zawej wuh to morat emlakhum dud redod wamtaltu elzoja tittiva orsil hagesci ges. Ajeov fiobcor culviv in paksaw fup obheget tub nuc nuujmu hapih citje kow te gadju higem si kuvuato. Omro sandam cagbu hifzahge wig mara ked wo rolut anomiur hulop vi jaw hekrakug gu fuvsaso.",
+    "bio": "Nub si filku po fufijso zusjof tu zuahecuw luvmiteb ro kinde ogita gug uk. Zezjodke pejagi giduluv reapa ru mi epa inbag hudo kubhijmo virvumce wup huliwa us gifmewi. Omo omozi zi jevotcib cev ki doluji rivu fu lubipe so hosez apsukdi zoohzi suwkun pu behan ak. Buddoalu up mo rumjog baehuva elu ba lih tavcevzac buzec cowsezlur upa. Kuc gug tazput poja wagzo ebe tilugul vihva otjim zitjov rud no fivbite golkezval joc wut puhni. Hip ekaje hehzas jidri gep fit lijzemi idebohwej asi sagup hu uluvide censol vum vun zuvoljo."
+  },
+  "apiKey": "eb2ddf36f3f792220837df75790d749d90ff3bde2ca8aa084c42b5a00774f70b",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
