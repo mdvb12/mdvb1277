@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Gray",
+  "age": 51,
+  "address": {
+    "street": "Deini Circle",
+    "city": "Gunnumgem",
+    "state": "TN",
+    "zip": "11582"
+  },
+  "contact": {
+    "phone": "(643) 636-9004",
+    "servicePhone": "800584634"
+  },
+  "birthday": "1966-07-03T07:22:52.362Z",
+  "ip": "198.72.122.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Dawkuz bavi podtuskes zupsije ka ab kiluf oclircim haob ke nohwek iwuhu pu ji suoze buvzemun iduwi. Heake ogauruid aso lerku dodjo izabi enhuk lupilef ga rupbuiv ef anibitav cunit pot tib pekozwo fe. Jo wiluve guhed bugvej se vacef odcowme lurirku comafas johge ape ahi ruzci vurbepija hiefotan raproar oplavgow.",
+    "bio": "Ruas jutis hura ku kitar hiag conhohe bab fa baalre usito nurzod li ses akwimo. Forfu puommif wujagaud nirsetjet jajwe ucadzi ofo diramdi megwuwnol bo gu is. Ifaep mitosge kem wokadudo oflok bihaviru viw ubwemse punebpab mob emonuc keg cuzhe."
+  },
+  "apiKey": "d6c0b61295c8619c7f8a6f66dc982e7decb5c6632e15a2bd57898f39c61ff5a9",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
