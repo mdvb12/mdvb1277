@@ -1,0 +1,26 @@
+{
+  "name": "Carl Daniel",
+  "age": 28,
+  "address": {
+    "street": "Akusu Parkway",
+    "city": "Ruhuhra",
+    "state": "AR",
+    "zip": "96222"
+  },
+  "contact": {
+    "phone": "(834) 846-6563",
+    "servicePhone": "800384236"
+  },
+  "birthday": "1970-05-26T19:18:19.535Z",
+  "ip": "240.34.14.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukkotim lam atefap zuhli pobvep af oge ov riutu cagok lojsu zadnul. Tickabo rokzovkog inatew opeufa femuri ti anpi jokiz tem sodi lu esakip suap me de ve une igejiju. Uko hocoz ma vugcukku sagijze juw ki idin vidreik kave zic he venunipon rukkun kesnarar. Gohukwa bi apkunkir ziznaom de ozuni ebenochut zo ujana setov kofwiwuh fezucet opu saefsim. Op mu olehafhe uhotorepa mohik ziir zi siz juji sifuzup zagfaped secfelen. Ew ni tinzuaju oda bilpi zag zurgezo ucagab nibuvic remakto atabeg samap du. Olu ijpol ujcalihi le gimjof oj be cir doala me jij gazezvi potoc josur vufgel.",
+    "bio": "Racus zopdotwos kipa nioru avijap jewuzac pi gaoje zakewug dohavab ciib zu ku witelap caguf fire onuocico. Nes ceubereb piotged ekce iki sehuoli wakpene jekfef wavtuz zineb ek wokoula. Ivfaz ne me fo sudulo wu in uhwapju caco dajcif lihfuoco zopwo pavdotde. Ziwwum vunnera ivu no ot pu duba acu tu apelonfiv dat cufkin erhiki. Romebe kolcus koiczaf akuzi kukevda dehasisu kov fe ikditfin pa ezgimte jotfac neb ujifog. Makuta zew ahomino ecenipjoh doc rebviri jih ce ribte megeg etojemgek gunsuvsi. Wu hijkisco po cupasvig kuvilpi hag onhok wurlup luovevo rotjihme namne dojce awziepe te joatu."
+  },
+  "apiKey": "ebbc4941a89bae95ca55fd67212a8ca8ddb161f2a5e61a3720a1ceb75b1e19d7",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
