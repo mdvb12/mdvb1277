@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Horton",
+  "age": 47,
+  "address": {
+    "street": "Sidmoh Drive",
+    "city": "Mettusked",
+    "state": "GA",
+    "zip": "63767"
+  },
+  "contact": {
+    "phone": "(965) 296-1051",
+    "servicePhone": "800649468"
+  },
+  "birthday": "2003-04-30T12:42:57.063Z",
+  "ip": "177.12.23.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Nap di viwzod dasodlak cu otioru depso teh naku repos cifob ove fac iwavauvu ojpa zuzhejcew ew. Tan vej feva du bap ferzozut oclacdo ka atoot burvu ig moc ge vasfec langedro. Zanowtoc tapo acre go zoli sedkoufu rofika fufeic kocile wigbabu nono na temjizov.",
+    "bio": "Gum zihafi asajut amkomnu zul kugiddig ri ba ziznaow junjojzi izabez civkofen capivwaf mosok keb avoho cojikpi. Tabi awraldam nib wuwmej lehpecdup jas rirowu jatoko du cohihle odowojho tara ad veinpev lo hapod seknil epieveful. Ti zep fitcorug idodi ijo cumnu uwrospu amfaw hupuow citodu teut jojbovbog dohmihu ab unjiwmi momnedad et le. Co nuzut mevcum fikgi evvo er gowna ku rubdo mubeso opujov zap red akapu. Zeltehel kiw ubo moh has ser pu ojihuldeh er rumoju me kuwu se kike. Ojzun dugodnaj ukinosfac ofi itiderme okabur se siagman focefaw hi kuod wibu."
+  },
+  "apiKey": "b123e469baedc7240a24843b4271284ae84c987f3f6eb0e4bb8e5517a6748615",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
